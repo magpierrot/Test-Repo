@@ -58,7 +58,7 @@ line-height: 20px;
 text-align: center;
 }
 .C3549UDL-footer a {
-color: #4F4F4F;
+text-shadow: none;
 }
 //* The artwork used for the background of this template
 is from the animation “Retrowave” by Florian Renner.
