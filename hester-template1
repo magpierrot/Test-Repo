@@ -1,0 +1,58 @@
+.C3549UDL-header {
+width: 360px;
+height: auto;
+padding: 20px;
+margin: 0px auto;
+margin-top: 20px;
+background: #0B0E15;
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+color: #EAE5D7;
+line-height: 21px;
+text-align: right;
+}
+.C3549UDL-header b {
+font-size: 50px;
+line-height: 40px;
+}
+.C3549UDL-body {
+width: 250px;
+height: 380px;
+padding: 10px;
+margin: 0px auto;
+background: #0B0E15;
+font-family: 'Source Sans Pro', sans-serif;
+font-size: 18px;
+color: #AFAFAF;
+line-height: 20px;
+text-align: justify;
+overflow-y: scroll;
+opacity: .8;
+}
+.C3549UDL-body::-webkit-scrollbar {
+width: 0em;
+}
+.C3549UDL-body b {
+color: #EAE5D7;
+}
+.C3549UDL-background {
+width: 400px;
+height: 400px;
+margin: 0px auto;
+background-image: url('http://i.imgur.com/rdmkooc.jpg');
+}
+.C3549UDL-footer {
+width: 360px;
+height: auto;
+padding: 20px;
+margin: 0px auto;
+background: #0B0E15;
+font-family: 'Roboto', sans-serif;
+font-size: 20px;
+color: #EAE5D7;
+line-height: 20px;
+text-align: center;
+}
+.C3549UDL-footer a {
+text-shadow: none;
+}
